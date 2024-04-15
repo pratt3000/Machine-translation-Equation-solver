@@ -15,7 +15,7 @@ Note2: Since the predict() function (from the given starter code) accepts one ex
 Note: This will train the model on data from train.txt
 
 ## Approach discussion
-Open ```Approach_explanation.pdf``` to view a brief doc on my work for this assignment.
+Open ```Approach_explanation.pdf``` to view a brief doc on my work.
 
 ## Other details
 1. Model weights and language details are stored in ```polynomial/weights```
